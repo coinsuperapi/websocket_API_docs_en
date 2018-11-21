@@ -44,6 +44,14 @@ Update Log
 
 ##### [1.4 Real Time Transaction Data](https://github.com/coinsuperapi/websocket_API_docs_en/wiki#14-real-time-transaction-data)
 
+#### [2.Private Data](https://github.com/coinsuperapi/websocket_API_docs_en/wiki#2private-data)
+
+##### [2.1 Change of Asset in User Account](https://github.com/coinsuperapi/websocket_API_docs_en/wiki#21-change-of-asset-in-user-account)
+
+##### [2.2 Change of Order Status](https://github.com/coinsuperapi/websocket_API_docs_en/wiki#22-change-of-order-status)
+
+##### [2.3 Change of Order Transaction](https://github.com/coinsuperapi/websocket_API_docs_en/wiki#23-change-of-order-transaction)
+
 
 
 ------
